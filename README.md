@@ -2,7 +2,7 @@
 # Example:
 ```
 from time import sleep
-from .sync_to_async import sync_to_async
+from sync_to_async.sync_to_async import sync_to_async
 
 from asgiref.sync import async_to_sync as async_api
 from django.http import HttpResponse
