@@ -1,4 +1,5 @@
 # Python Sync To Async Decorator
+``` pip install sync-to-async ```
 # Example:
 ```
 from time import sleep
